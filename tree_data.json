@@ -1,0 +1,86 @@
+[
+  {
+    "label": "toilet",
+    "children": [
+      "lift",
+      "atrium"
+    ]
+  },
+  {
+    "label": "atrium",
+    "children": [
+      "pmb!",
+      "bank",
+      "lift",
+      "alumni",
+      "toilet",
+      "koppa",
+      "tangga",
+      "kantin"
+    ]
+  },
+  {
+    "label": "lift",
+    "children": [
+      "atrium",
+      "pmb!",
+      "toilet",
+      "tokobuku"
+    ]
+  },
+  {
+    "label": "pmb!",
+    "children": [
+      "lift",
+      "atrium",
+      "alumni"
+    ]
+  },
+  {
+    "label": "alumni",
+    "children": [
+      "pmb!",
+      "lift",
+      "atrium"
+    ]
+  },
+  {
+    "label": "bank",
+    "children": [
+      "koppa",
+      " tangga",
+      "atrium"
+    ]
+  },
+  {
+    "label": "tangga",
+    "children": [
+      "bank",
+      "koppa"
+    ]
+  },
+  {
+    "label": "tokobuku",
+    "children": [
+      "pmb!",
+      " lift",
+      "atrium"
+    ]
+  },
+  {
+    "label": "koppa",
+    "children": [
+      "atrium",
+      "kantin",
+      "bank",
+      "tangga"
+    ]
+  },
+  {
+    "label": "kantin",
+    "children": [
+      "atrium",
+      "koppa"
+    ]
+  }
+]
